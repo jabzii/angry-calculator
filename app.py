@@ -15,24 +15,23 @@ def calculator():
         
         if operator == '+':
             result = num1 + num2
-            angry_message = "If you needed help with that , I fear for humanity"
+            angry_message = "If you needed help with that, I fear for humanity"
         elif operator == '-':
             result = num1 - num2
-            angry_message = "Go get a pen and paper find it yourself ...."
+            angry_message = "Go get a pen and paper, find it yourself..."
         elif operator == '*':
             result = num1 * num2
             angry_message = "Not in a mood to answer such a lame question"
         elif operator == '/':
             if num2 != 0:
                 result = num1 / num2
-                angry_message = "are you such a dum KIDOOO.. go do it yourself"
+                angry_message = "Are you such a dum KIDOOO... go do it yourself"
             else:
                 angry_message = "Error! Division by zero is not possible."
                 result = "Error"
         elif operator == '**':
             result = num1 ** num2
             angry_message = "I am not in a mood to answer these stupid questions"
-            
         else:
             angry_message = "Enter the correct operator you fool...."
             result = "Error"
@@ -40,4 +39,5 @@ def calculator():
     return render_template('calculator.html', result=result, angry_message=angry_message)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Run on all IPs (0.0.0.0) and port 5000 by default; change if needed
+    app.run(host='0.0.0.0', port=5000, debug=True)
