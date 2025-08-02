@@ -10,7 +10,7 @@
 
 ### Team Members
 - Team Lead: Jabez Mathews - Mar Baselios Christian College of Engineering And Technology
-- Member 2: Thomaskuty Joy - Mar Baselios Christian College of Engineering And Technology
+- Member 2: Thomaskutty Joy - Mar Baselios Christian College of Engineering And Technology
 
 ### Project Description
 The Angry Calculator is a web-based application built using Python and Flask that performs basic arithmetic operations while responding with humorous or sarcastic messages. It combines simple calculation logic with creative user interaction to make an otherwise ordinary tool entertaining and engaging.
@@ -29,27 +29,34 @@ For Software:
 - VS-code
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+img width="1900" height="949" alt="Screenshot 2025-08-02 063423" src="https://github.com/user-attachments/assets/f08a27a4-8b7c-4b6c-8a9a-1b5478a5a844" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+This image shows the user interface of a fun and creatively styled web application called "Angry Calculator".
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1871" height="948" alt="Screenshot 2025-08-02 063514" src="https://github.com/user-attachments/assets/198d56d3-9995-4743-b185-56041b9cd51c" />
+This image shows the output screen of the Angry Calculator after performing a basic addition operation. The user entered:
+First Number: 2
+Operation: Addition (+)
+Second Number: 1
+After clicking the “CALCULATE” button, instead of displaying the numerical result, the app humorously responds with the sarcastic message:
+<img width="1842" height="925" alt="Screenshot 2025-08-02 063540" src="https://github.com/user-attachments/assets/f9660d98-ac49-4243-94d7-e914dd3ce558" />
+This image displays the "Angry Calculator" in action during a multiplication task. The user input is:
+First Number: 57
+Operation: Multiplication (×)
+Second Number: 55
+Upon clicking the “CALCULATE” button, instead of showing the result, the calculator delivers a snarky response:
+"Go get a pen and paper, find it yourself ...."
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+-Jabez Mathews: [Specific contributions]
+- Thomaskutty Joy: [Specific contributions]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
