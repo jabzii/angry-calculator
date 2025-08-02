@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: Bro code
+### Team Name: Brocode
 
 
 ### Team Members
@@ -29,7 +29,7 @@ For Software:
 - VS-code
 
 # Screenshots (Add at least 3)
-img width="1900" height="949" alt="Screenshot 2025-08-02 063423" src="https://github.com/user-attachments/assets/f08a27a4-8b7c-4b6c-8a9a-1b5478a5a844" />
+<img width="1900" height="949" alt="Screenshot 2025-08-02 063423" src="https://github.com/user-attachments/assets/f08a27a4-8b7c-4b6c-8a9a-1b5478a5a844" />
 
 This image shows the user interface of a fun and creatively styled web application called "Angry Calculator".
 
@@ -49,13 +49,35 @@ Upon clicking the “CALCULATE” button, instead of showing the result, the cal
 
 ### Project Demo
 # Video
+
+https://github.com/user-attachments/assets/ae7940b5-2feb-47fa-9cf2-01374e6dbe6b
+
+
 [Add your demo video link here]
-*Explain what the video demonstrates*
+The screen recording demonstrates the functionality and user experience of the Angry Calculator — a humorous web-based calculator built using Python and Flask.
+Key Actions Captured in the Video:
+User opens the calculator web interface.
+Inputs two numbers into the respective fields.
+Selects an arithmetic operation (e.g., addition, subtraction, multiplication, division).
+Clicks the “CALCULATE” button to process the input.
+Instead of giving a plain result, the calculator responds with a sarcastic or funny message (e.g., “Go get a pen and paper, find it yourself...”), reflecting its angry personality.
+The interface updates instantly, showing the calculated result along with the custom angry response.
+This interaction is repeated with different operations to showcase the variety of messages.
+
+
 
 
 ## Team Contributions
--Jabez Mathews: [Specific contributions]
-- Thomaskutty Joy: [Specific contributions]
+-Jabez Mathews: Designed the frontend structure of the Angry Calculator (HTML/CSS in calculator.html)
+Helped define the UI flow and user experience
+Collaborated on writing humorous output messages
+Tested the application for edge cases and bugs
+Participated in final integration and deployment
+- Thomaskutty Joy: Developed the Flask backend logic (app.py) for handling operations
+Implemented input handling and arithmetic operation logic
+Created and managed the angry responses for each operation
+Ensured routing and rendering worked smoothly
+Helped with testing and debugging functionality
 
 
 ---
