@@ -1,24 +1,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Angry Calculator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bro code
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Jabez Mathews - Mar Baselios Christian College of Engineering And Technology
+- Member 2: Thomaskuty Joy - Mar Baselios Christian College of Engineering And Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+The Angry Calculator is a web-based application built using Python and Flask that performs basic arithmetic operations while responding with humorous or sarcastic messages. It combines simple calculation logic with creative user interaction to make an otherwise ordinary tool entertaining and engaging.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+This project humorously addresses the lack of personality and engagement in traditional calculator applications. By introducing sarcastic and playful responses, it transforms a routine utility into an interactive experience. While not solving a conventional problem, the Angry Calculator explores how emotional and entertaining feedback can enhance user interaction in even the most basic digital tools.
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
 
